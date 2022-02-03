@@ -1,0 +1,36 @@
+.formBlock {
+}
+
+.form {
+}
+
+.label {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  margin-top: 10px;
+
+  color: #212121;
+}
+.input {
+  height: 30px;
+  border-radius: 10px;
+}
+
+.btnAdd {
+  display: block;
+  margin-top: 20px;
+  width: 50 px;
+  height: 25px;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+  background-color: rgb(101, 128, 250);
+}

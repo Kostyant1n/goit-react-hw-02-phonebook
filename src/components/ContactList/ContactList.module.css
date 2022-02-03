@@ -1,0 +1,28 @@
+.ContactListItem {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  margin-top: 10px;
+  margin-left: 10px;
+  color: #212121;
+}
+
+.btnDelete {
+  margin-top: 7px;
+  margin-left: 10px;
+  width: 40 px;
+  height: 20px;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background-color: #bd8d8d;
+}
+
+.btnDelete:active {
+  background-color: #6580fa;
+}
+/*# sourceMappingURL=ContactList.module.css.map */
